@@ -1,5 +1,0 @@
-﻿  Simple2DTransformation.cpp
-C:\Users\Minhyuk Nam\Dropbox\School\Sogang\9th\CSE4170\projects\graphics\3.0.Simple2DTransArrowMouse_GL\3.0.Simple2DTransArrowMouse_GL\Simple2DTransformation.cpp(451,35): warning C4326: return type of 'main' should be 'int' instead of 'void'
-C:\Users\Minhyuk Nam\Dropbox\School\Sogang\9th\CSE4170\projects\graphics\3.0.Simple2DTransArrowMouse_GL\3.0.Simple2DTransArrowMouse_GL\Simple2DTransformation.cpp(460,36): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
-C:\Users\Minhyuk Nam\Dropbox\School\Sogang\9th\CSE4170\projects\graphics\3.0.Simple2DTransArrowMouse_GL\3.0.Simple2DTransArrowMouse_GL\Simple2DTransformation.cpp(460,26): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
-  3.0.Simple2DTransArrowMouse_GL.vcxproj -> C:\Users\Minhyuk Nam\Dropbox\School\Sogang\9th\CSE4170\projects\graphics\3.0.Simple2DTransArrowMouse_GL\Debug\3.0.Simple2DTransArrowMouse_GL.exe
